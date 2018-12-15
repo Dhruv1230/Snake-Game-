@@ -1,0 +1,5 @@
+C:\Users\Dhulo\source\repos\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Dhulo\source\repos\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\Dhulo\source\repos\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\Dhulo\source\repos\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\Dhulo\source\repos\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
